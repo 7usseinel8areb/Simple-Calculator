@@ -4,7 +4,7 @@
 This is a simple Calculator program built by C# language and WinForms.
 
 
-![Logo]([https://static.vecteezy.com/system/resources/previews/000/357/410/original/vector-calculator-icon.jpg](https://th.bing.com/th/id/OIP.5hsjd2jaFGFq0WmBTp2EAQAAAA?rs=1&pid=ImgDetMain))
+![Logo](https://aux.iconspalace.com/uploads/calculator-icon-256-348653001.png)
 
 
 ## Operations 
