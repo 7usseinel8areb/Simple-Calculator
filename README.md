@@ -1,10 +1,10 @@
 
 # Calculator
 
-This is a simple Calculator built by C# language and WinForms.
+This is a simple Calculator program built by C# language and WinForms.
 
 
-![Logo](https://static.vecteezy.com/system/resources/previews/000/357/410/original/vector-calculator-icon.jpg)
+![Logo]([https://static.vecteezy.com/system/resources/previews/000/357/410/original/vector-calculator-icon.jpg](https://th.bing.com/th/id/OIP.5hsjd2jaFGFq0WmBTp2EAQAAAA?rs=1&pid=ImgDetMain))
 
 
 ## Operations 
